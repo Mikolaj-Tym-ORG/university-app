@@ -1,0 +1,1 @@
+print("It's an university manager app.")
